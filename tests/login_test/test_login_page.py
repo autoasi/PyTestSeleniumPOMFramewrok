@@ -1,7 +1,7 @@
 import pytest
 
-from app.pom.logged_in_successfully_page import LoggedInSuccessfullyPage
-from app.pom.login_page import LoginPage
+from app.pom.pages.logged_in_successfully_page import LoggedInSuccessfullyPage
+from app.pom.pages.login_page import LoginPage
 
 
 class TestPositiveScenarios:
