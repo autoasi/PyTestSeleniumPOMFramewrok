@@ -1,7 +1,7 @@
 from selenium.webdriver.common.by import By
 from selenium.webdriver.remote.webdriver import WebDriver
 
-from app.pom.base_page import BasePage
+from app.pom.pages.base_page import BasePage
 
 
 # Inherit from BasePage

@@ -1,6 +1,6 @@
 import pytest
 
-from app.pom.exceptions_page import ExceptionsPage
+from app.pom.pages.exceptions_page import ExceptionsPage
 
 
 class TestExceptions:

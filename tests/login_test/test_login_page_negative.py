@@ -3,7 +3,7 @@ import time
 import pytest
 from selenium.webdriver.common.by import By
 
-from app.pom.login_page import LoginPage
+from app.pom.pages.login_page import LoginPage
 
 
 class TestNegativeScenarios:
